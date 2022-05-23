@@ -1,0 +1,9 @@
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\bin\Debug\Rotas.entities.dll
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\bin\Debug\Rotas.entities.pdb
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities.csproj.CoreCompileInputs.cache
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities.csproj.CopyComplete
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities.dll
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities.pdb
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities.csprojAssemblyReference.cache

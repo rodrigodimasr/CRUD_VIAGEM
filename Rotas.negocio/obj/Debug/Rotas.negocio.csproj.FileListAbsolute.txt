@@ -1,0 +1,15 @@
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\Rotas.negocio.dll.config
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\Rotas.negocio.dll
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\Rotas.negocio.pdb
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\Rotas.data.dll
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\Rotas.entities.dll
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\Rotas.data.pdb
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\Rotas.data.dll.config
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\Rotas.entities.pdb
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\obj\Debug\Rotas.negocio.csprojAssemblyReference.cache
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\obj\Debug\Rotas.negocio.csproj.CoreCompileInputs.cache
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\obj\Debug\Rotas.negocio.csproj.CopyComplete
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\obj\Debug\Rotas.negocio.dll
+C:\Users\rodrigodimas\source\repos\Rotas\Rotas.negocio\obj\Debug\Rotas.negocio.pdb
