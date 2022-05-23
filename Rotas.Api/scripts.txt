@@ -1,0 +1,14 @@
+CREATE TABLE TB_VIAGEM (
+Id int not null,
+Origem varchar(50) not null,
+Parada_1 varchar(50),
+Parada_2 varchar(50),
+Parada_3 varchar(50),
+Parada_4 varchar(50), 
+DestinoFinal varchar(50) not null,
+valor float not null,
+)
+GO
+
+ALTER TABLE TB_VIAGEM ADD CONSTRAINT PK_VIAGEM PRIMARY KEY (Id)
+GO

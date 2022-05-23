@@ -6,4 +6,3 @@ C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities
 C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities.csproj.CopyComplete
 C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities.dll
 C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities.pdb
-C:\Users\rodrigodimas\source\repos\Rotas\Rotas.entities\obj\Debug\Rotas.entities.csprojAssemblyReference.cache

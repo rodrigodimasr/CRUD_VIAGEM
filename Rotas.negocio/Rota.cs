@@ -39,7 +39,6 @@ namespace Rotas.negocio
                             valor = (select min(valor) from tb_viagem where Origem = '{origem}' and DestinoFinal = '{destino}')";
             return ConvertData(_manager.SqlQuery(query)).FirstOrDefault();
 
-            //throw new NotImplementedException();
         }
 
         public List<entities.Rota> FindAll(string origem, string destino)
